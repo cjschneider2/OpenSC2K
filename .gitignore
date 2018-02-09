@@ -3,6 +3,7 @@
 node_modules
 db/database.db-shm
 db/database.db-wal
+js/.DS_Store
 images/.DS_Store
 */.DS_Store
 .DS_Store?
@@ -12,3 +13,6 @@ images/.DS_Store
 Icon?
 ehthumbs.db
 Thumbs.db
+images/test/
+images/test/*
+assets/*
